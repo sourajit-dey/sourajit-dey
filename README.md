@@ -1,72 +1,15 @@
-<div align="center">
-<img src="./assets/hero.svg" width="100%" alt="Sourajit Dey"/>
-</div>
+# 💫 About Me:
+🎓 2nd year CS student<br>💻 Mostly living in Java and the MERN stack these days<br>🧠 Doing DSA daily in Java — it's become kind of a habit at this point<br>⚙️ Getting curious about how AI systems actually work under the hood, not just calling an API and moving on<br>🌱 Still early there, so I'm not gonna oversell it<br>📖 Also trying to get into open source — haven't contributed much yet, mostly just reading through projects and figuring out how they're put together<br>🚀 Check my repos if you wanna see what I've actually built
 
-<p align="center"><img src="./assets/connector.svg" height="70"/></p>
 
-<div align="center">
-<img src="./assets/terminal.svg" width="640" alt="terminal"/>
-</div>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sourajit-dey&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=sourajit-dey&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sourajit-dey&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center"><img src="./assets/connector.svg" height="70"/></p>
+---
+[![](https://komarev.com/ghpvc/?username=sourajit-dey&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-<img src="./assets/currently-flow.svg" width="100%" alt="currently building: backend, java dsa, projects, open source"/>
-</div>
-
-<p align="center"><img src="./assets/connector.svg" height="70"/></p>
-
-<div align="center">
-<img src="./assets/tech-flow.svg" width="100%" alt="tech stack: java, javascript, react, node, express, mongodb, git"/>
-</div>
-
-<p align="center"><img src="./assets/connector.svg" height="70"/></p>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sourajit-dey&bg_color=0D0F17&color=22D3EE&line=6366F1&point=818CF8&area=true&hide_border=true&custom_title=" width="100%" alt="activity graph"/>
-
-<img src="./assets/connector.svg" height="50"/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sourajit-dey/sourajit-dey/output/dist/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sourajit-dey/sourajit-dey/output/dist/snake-light.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/sourajit-dey/sourajit-dey/output/dist/snake-dark.svg" width="100%"/>
-</picture>
-
-<img src="./assets/connector.svg" height="50"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sourajit-dey&show_icons=true&hide_border=true&bg_color=0D0F17&title_color=22D3EE&icon_color=6366F1&text_color=C9D1D9" />
-<img height="165" src="https://streak-stats.demolab.com/?user=sourajit-dey&hide_border=true&background=0D0F17&ring=6366F1&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=6B7280" />
-
-</div>
-
-<p align="center"><img src="./assets/connector.svg" height="70"/></p>
-
-<div align="center">
-<img src="./assets/projects-flow.svg" width="100%" alt="projects"/>
-</div>
-
-<p align="center"><img src="./assets/connector.svg" height="70"/></p>
-
-<div align="center">
-
-<sub>OPEN SOURCE</sub>
-<br/>
-<sub>Contributing &#183; Learning &#183; Building</sub>
-
-</div>
-
-<p align="center"><img src="./assets/connector.svg" height="70"/></p>
-
-<div align="center">
-
-<a href="https://instagram.com/soura__07"><sub>instagram / soura__07</sub></a>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="./assets/footer.svg" width="100%" alt="footer"/>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
