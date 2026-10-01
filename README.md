@@ -1,5 +1,6 @@
 # 💫 About Me:
-🎓 2nd year CS student<br>💻 Mostly living in Java and the MERN stack these days<br>🧠 Doing DSA daily in Java — it's become kind of a habit at this point<br>⚙️ Getting curious about how AI systems actually work under the hood, not just calling an API and moving on<br>🌱 Still early there, so I'm not gonna oversell it<br>📖 Also trying to get into open source — haven't contributed much yet, mostly just reading through projects and figuring out how they're put together<br>🚀 Check my repos if you wanna see what I've actually built
+🎓 2nd year CS student<br>💻 Mostly living in Java and the MERN stack these days<br>
+check my repos to see what I've actually built
 
 
 # 💻 Tech Stack:
