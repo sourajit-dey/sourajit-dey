@@ -1,36 +1,16 @@
-<div align="center">
+# 💫 About Me:
+🎓 2nd year CS student<br>💻 Mostly living in Java and the MERN stack these days<br>
+check my repos to see what I've actually built
 
-<img src="./cards/hero.svg" width="860" />
 
-<br>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sourajit-dey&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=sourajit-dey&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sourajit-dey&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="./cards/heatmap-blue.svg" width="860" />
+---
+[![](https://komarev.com/ghpvc/?username=sourajit-dey&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br>
-
-<img src="./cards/activity.svg" width="860" />
-
-<br>
-
-<a href="https://github.com/sourajit-dey?tab=repositories"><img src="./cards/build.svg" width="32.5%" /></a>
-<a href="https://selfhostingbeginners.blogspot.com"><img src="./cards/brand.svg" width="32.5%" /></a>
-<a href="https://github.com/sourajit-dey/DSA-Question-Practice"><img src="./cards/learn.svg" width="32.5%" /></a>
-
-<br>
-
-<table>
-<tr>
-<td><a href="https://github.com/sourajit-dey/Ai-healthcare"><img src="./cards/repo-ai-healthcare.svg" width="420" /></a></td>
-<td><a href="https://github.com/sourajit-dey/DSA-Question-Practice"><img src="./cards/repo-dsa-question-practice.svg" width="420" /></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/sourajit-dey/forest-monitor"><img src="./cards/repo-forest-monitor.svg" width="420" /></a></td>
-<td><a href="https://github.com/sourajit-dey/habit-tracker"><img src="./cards/repo-habit-tracker.svg" width="420" /></a></td>
-</tr>
-</table>
-
-<br>
-
-<a href="https://selfhostingbeginners.blogspot.com">blog</a>
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
